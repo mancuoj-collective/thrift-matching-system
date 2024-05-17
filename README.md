@@ -1,6 +1,3 @@
-# thrift matching system
+# Thrift Matching System
 
-For learning thrift, a mini sample.
-
-- server: cpp
-- client: python
+https://thrift.apache.org/docs
